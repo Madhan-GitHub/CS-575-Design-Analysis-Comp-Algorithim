@@ -1,0 +1,354 @@
+Difference between 4 and 2 is :2, Result:2 exists in the InputFile.txt
+
+Difference between 13 and 2 is :11, Result:11 exists in the InputFile.txt
+
+Difference between 19 and 2 is :17, Result:17 exists in the InputFile.txt
+
+Difference between 20 and 2 is :18, Result:18 exists in the InputFile.txt
+
+Difference between 22 and 2 is :20, Result:20 exists in the InputFile.txt
+
+Difference between 37 and 2 is :35, Result:35 exists in the InputFile.txt
+
+Difference between 40 and 2 is :38, Result:38 exists in the InputFile.txt
+
+Difference between 91 and 2 is :89, Result:89 exists in the InputFile.txt
+
+Difference between 14 and 4 is :10, Result:10 exists in the InputFile.txt
+
+Difference between 17 and 4 is :13, Result:13 exists in the InputFile.txt
+
+Difference between 18 and 4 is :14, Result:14 exists in the InputFile.txt
+
+Difference between 22 and 4 is :18, Result:18 exists in the InputFile.txt
+
+Difference between 23 and 4 is :19, Result:19 exists in the InputFile.txt
+
+Difference between 27 and 4 is :23, Result:23 exists in the InputFile.txt
+
+Difference between 27 and 4 is :23, Result:23 exists in the InputFile.txt
+
+Difference between 49 and 4 is :45, Result:45 exists in the InputFile.txt
+
+Difference between 59 and 4 is :55, Result:55 exists in the InputFile.txt
+
+Difference between 10 and 5 is :5, Result:5 exists in the InputFile.txt
+
+Difference between 18 and 5 is :13, Result:13 exists in the InputFile.txt
+
+Difference between 19 and 5 is :14, Result:14 exists in the InputFile.txt
+
+Difference between 22 and 5 is :17, Result:17 exists in the InputFile.txt
+
+Difference between 23 and 5 is :18, Result:18 exists in the InputFile.txt
+
+Difference between 27 and 5 is :22, Result:22 exists in the InputFile.txt
+
+Difference between 35 and 5 is :30, Result:30 exists in the InputFile.txt
+
+Difference between 40 and 5 is :35, Result:35 exists in the InputFile.txt
+
+Difference between 45 and 5 is :40, Result:40 exists in the InputFile.txt
+
+Difference between 14 and 10 is :4, Result:4 exists in the InputFile.txt
+
+Difference between 20 and 10 is :10, Result:10 exists in the InputFile.txt
+
+Difference between 23 and 10 is :13, Result:13 exists in the InputFile.txt
+
+Difference between 27 and 10 is :17, Result:17 exists in the InputFile.txt
+
+Difference between 30 and 10 is :20, Result:20 exists in the InputFile.txt
+
+Difference between 37 and 10 is :27, Result:27 exists in the InputFile.txt
+
+Difference between 40 and 10 is :30, Result:30 exists in the InputFile.txt
+
+Difference between 45 and 10 is :35, Result:35 exists in the InputFile.txt
+
+Difference between 55 and 10 is :45, Result:45 exists in the InputFile.txt
+
+Difference between 59 and 10 is :49, Result:49 exists in the InputFile.txt
+
+Difference between 99 and 10 is :89, Result:89 exists in the InputFile.txt
+
+Difference between 13 and 11 is :2, Result:2 exists in the InputFile.txt
+
+Difference between 22 and 11 is :11, Result:11 exists in the InputFile.txt
+
+Difference between 30 and 11 is :19, Result:19 exists in the InputFile.txt
+
+Difference between 38 and 11 is :27, Result:27 exists in the InputFile.txt
+
+Difference between 46 and 11 is :35, Result:35 exists in the InputFile.txt
+
+Difference between 49 and 11 is :38, Result:38 exists in the InputFile.txt
+
+Difference between 17 and 13 is :4, Result:4 exists in the InputFile.txt
+
+Difference between 18 and 13 is :5, Result:5 exists in the InputFile.txt
+
+Difference between 23 and 13 is :10, Result:10 exists in the InputFile.txt
+
+Difference between 27 and 13 is :14, Result:14 exists in the InputFile.txt
+
+Difference between 30 and 13 is :17, Result:17 exists in the InputFile.txt
+
+Difference between 35 and 13 is :22, Result:22 exists in the InputFile.txt
+
+Difference between 40 and 13 is :27, Result:27 exists in the InputFile.txt
+
+Difference between 59 and 13 is :46, Result:46 exists in the InputFile.txt
+
+Difference between 89 and 13 is :76, Result:76 exists in the InputFile.txt
+
+Difference between 18 and 14 is :4, Result:4 exists in the InputFile.txt
+
+Difference between 19 and 14 is :5, Result:5 exists in the InputFile.txt
+
+Difference between 27 and 14 is :13, Result:13 exists in the InputFile.txt
+
+Difference between 37 and 14 is :23, Result:23 exists in the InputFile.txt
+
+Difference between 37 and 14 is :23, Result:23 exists in the InputFile.txt
+
+Difference between 49 and 14 is :35, Result:35 exists in the InputFile.txt
+
+Difference between 59 and 14 is :45, Result:45 exists in the InputFile.txt
+
+Difference between 105 and 14 is :91, Result:91 exists in the InputFile.txt
+
+Difference between 19 and 17 is :2, Result:2 exists in the InputFile.txt
+
+Difference between 22 and 17 is :5, Result:5 exists in the InputFile.txt
+
+Difference between 27 and 17 is :10, Result:10 exists in the InputFile.txt
+
+Difference between 30 and 17 is :13, Result:13 exists in the InputFile.txt
+
+Difference between 35 and 17 is :18, Result:18 exists in the InputFile.txt
+
+Difference between 37 and 17 is :20, Result:20 exists in the InputFile.txt
+
+Difference between 40 and 17 is :23, Result:23 exists in the InputFile.txt
+
+Difference between 40 and 17 is :23, Result:23 exists in the InputFile.txt
+
+Difference between 55 and 17 is :38, Result:38 exists in the InputFile.txt
+
+Difference between 76 and 17 is :59, Result:59 exists in the InputFile.txt
+
+Difference between 20 and 18 is :2, Result:2 exists in the InputFile.txt
+
+Difference between 22 and 18 is :4, Result:4 exists in the InputFile.txt
+
+Difference between 23 and 18 is :5, Result:5 exists in the InputFile.txt
+
+Difference between 35 and 18 is :17, Result:17 exists in the InputFile.txt
+
+Difference between 37 and 18 is :19, Result:19 exists in the InputFile.txt
+
+Difference between 38 and 18 is :20, Result:20 exists in the InputFile.txt
+
+Difference between 40 and 18 is :22, Result:22 exists in the InputFile.txt
+
+Difference between 45 and 18 is :27, Result:27 exists in the InputFile.txt
+
+Difference between 55 and 18 is :37, Result:37 exists in the InputFile.txt
+
+Difference between 67 and 18 is :49, Result:49 exists in the InputFile.txt
+
+Difference between 23 and 19 is :4, Result:4 exists in the InputFile.txt
+
+Difference between 30 and 19 is :11, Result:11 exists in the InputFile.txt
+
+Difference between 37 and 19 is :18, Result:18 exists in the InputFile.txt
+
+Difference between 38 and 19 is :19, Result:19 exists in the InputFile.txt
+
+Difference between 46 and 19 is :27, Result:27 exists in the InputFile.txt
+
+Difference between 49 and 19 is :30, Result:30 exists in the InputFile.txt
+
+Difference between 59 and 19 is :40, Result:40 exists in the InputFile.txt
+
+Difference between 198 and 19 is :179, Result:179 exists in the InputFile.txt
+
+Difference between 22 and 20 is :2, Result:2 exists in the InputFile.txt
+
+Difference between 30 and 20 is :10, Result:10 exists in the InputFile.txt
+
+Difference between 37 and 20 is :17, Result:17 exists in the InputFile.txt
+
+Difference between 38 and 20 is :18, Result:18 exists in the InputFile.txt
+
+Difference between 40 and 20 is :20, Result:20 exists in the InputFile.txt
+
+Difference between 55 and 20 is :35, Result:35 exists in the InputFile.txt
+
+Difference between 27 and 22 is :5, Result:5 exists in the InputFile.txt
+
+Difference between 35 and 22 is :13, Result:13 exists in the InputFile.txt
+
+Difference between 40 and 22 is :18, Result:18 exists in the InputFile.txt
+
+Difference between 45 and 22 is :23, Result:23 exists in the InputFile.txt
+
+Difference between 45 and 22 is :23, Result:23 exists in the InputFile.txt
+
+Difference between 49 and 22 is :27, Result:27 exists in the InputFile.txt
+
+Difference between 59 and 22 is :37, Result:37 exists in the InputFile.txt
+
+Difference between 67 and 22 is :45, Result:45 exists in the InputFile.txt
+
+Difference between 89 and 22 is :67, Result:67 exists in the InputFile.txt
+
+Difference between 201 and 22 is :179, Result:179 exists in the InputFile.txt
+
+Difference between 27 and 23 is :4, Result:4 exists in the InputFile.txt
+
+Difference between 37 and 23 is :14, Result:14 exists in the InputFile.txt
+
+Difference between 40 and 23 is :17, Result:17 exists in the InputFile.txt
+
+Difference between 45 and 23 is :22, Result:22 exists in the InputFile.txt
+
+Difference between 46 and 23 is :23, Result:23 exists in the InputFile.txt
+
+Difference between 46 and 23 is :23, Result:23 exists in the InputFile.txt
+
+Difference between 99 and 23 is :76, Result:76 exists in the InputFile.txt
+
+Difference between 37 and 27 is :10, Result:10 exists in the InputFile.txt
+
+Difference between 38 and 27 is :11, Result:11 exists in the InputFile.txt
+
+Difference between 40 and 27 is :13, Result:13 exists in the InputFile.txt
+
+Difference between 45 and 27 is :18, Result:18 exists in the InputFile.txt
+
+Difference between 46 and 27 is :19, Result:19 exists in the InputFile.txt
+
+Difference between 49 and 27 is :22, Result:22 exists in the InputFile.txt
+
+Difference between 67 and 27 is :40, Result:40 exists in the InputFile.txt
+
+Difference between 76 and 27 is :49, Result:49 exists in the InputFile.txt
+
+Difference between 35 and 30 is :5, Result:5 exists in the InputFile.txt
+
+Difference between 40 and 30 is :10, Result:10 exists in the InputFile.txt
+
+Difference between 49 and 30 is :19, Result:19 exists in the InputFile.txt
+
+Difference between 67 and 30 is :37, Result:37 exists in the InputFile.txt
+
+Difference between 76 and 30 is :46, Result:46 exists in the InputFile.txt
+
+Difference between 89 and 30 is :59, Result:59 exists in the InputFile.txt
+
+Difference between 231 and 30 is :201, Result:201 exists in the InputFile.txt
+
+Difference between 37 and 35 is :2, Result:2 exists in the InputFile.txt
+
+Difference between 40 and 35 is :5, Result:5 exists in the InputFile.txt
+
+Difference between 45 and 35 is :10, Result:10 exists in the InputFile.txt
+
+Difference between 46 and 35 is :11, Result:11 exists in the InputFile.txt
+
+Difference between 49 and 35 is :14, Result:14 exists in the InputFile.txt
+
+Difference between 55 and 35 is :20, Result:20 exists in the InputFile.txt
+
+Difference between 55 and 37 is :18, Result:18 exists in the InputFile.txt
+
+Difference between 59 and 37 is :22, Result:22 exists in the InputFile.txt
+
+Difference between 67 and 37 is :30, Result:30 exists in the InputFile.txt
+
+Difference between 40 and 38 is :2, Result:2 exists in the InputFile.txt
+
+Difference between 49 and 38 is :11, Result:11 exists in the InputFile.txt
+
+Difference between 55 and 38 is :17, Result:17 exists in the InputFile.txt
+
+Difference between 76 and 38 is :38, Result:38 exists in the InputFile.txt
+
+Difference between 105 and 38 is :67, Result:67 exists in the InputFile.txt
+
+Difference between 45 and 40 is :5, Result:5 exists in the InputFile.txt
+
+Difference between 59 and 40 is :19, Result:19 exists in the InputFile.txt
+
+Difference between 67 and 40 is :27, Result:27 exists in the InputFile.txt
+
+Difference between 89 and 40 is :49, Result:49 exists in the InputFile.txt
+
+Difference between 99 and 40 is :59, Result:59 exists in the InputFile.txt
+
+Difference between 49 and 45 is :4, Result:4 exists in the InputFile.txt
+
+Difference between 55 and 45 is :10, Result:10 exists in the InputFile.txt
+
+Difference between 59 and 45 is :14, Result:14 exists in the InputFile.txt
+
+Difference between 67 and 45 is :22, Result:22 exists in the InputFile.txt
+
+Difference between 91 and 45 is :46, Result:46 exists in the InputFile.txt
+
+Difference between 59 and 46 is :13, Result:13 exists in the InputFile.txt
+
+Difference between 76 and 46 is :30, Result:30 exists in the InputFile.txt
+
+Difference between 91 and 46 is :45, Result:45 exists in the InputFile.txt
+
+Difference between 105 and 46 is :59, Result:59 exists in the InputFile.txt
+
+Difference between 59 and 49 is :10, Result:10 exists in the InputFile.txt
+
+Difference between 67 and 49 is :18, Result:18 exists in the InputFile.txt
+
+Difference between 76 and 49 is :27, Result:27 exists in the InputFile.txt
+
+Difference between 89 and 49 is :40, Result:40 exists in the InputFile.txt
+
+Difference between 59 and 55 is :4, Result:4 exists in the InputFile.txt
+
+Difference between 76 and 59 is :17, Result:17 exists in the InputFile.txt
+
+Difference between 89 and 59 is :30, Result:30 exists in the InputFile.txt
+
+Difference between 99 and 59 is :40, Result:40 exists in the InputFile.txt
+
+Difference between 105 and 59 is :46, Result:46 exists in the InputFile.txt
+
+Difference between 89 and 67 is :22, Result:22 exists in the InputFile.txt
+
+Difference between 105 and 67 is :38, Result:38 exists in the InputFile.txt
+
+Difference between 89 and 76 is :13, Result:13 exists in the InputFile.txt
+
+Difference between 99 and 76 is :23, Result:23 exists in the InputFile.txt
+
+Difference between 99 and 76 is :23, Result:23 exists in the InputFile.txt
+
+Difference between 167 and 76 is :91, Result:91 exists in the InputFile.txt
+
+Difference between 91 and 89 is :2, Result:2 exists in the InputFile.txt
+
+Difference between 99 and 89 is :10, Result:10 exists in the InputFile.txt
+
+Difference between 105 and 91 is :14, Result:14 exists in the InputFile.txt
+
+Difference between 167 and 91 is :76, Result:76 exists in the InputFile.txt
+
+Difference between 198 and 99 is :99, Result:99 exists in the InputFile.txt
+
+Difference between 198 and 179 is :19, Result:19 exists in the InputFile.txt
+
+Difference between 201 and 179 is :22, Result:22 exists in the InputFile.txt
+
+Difference between 231 and 201 is :30, Result:30 exists in the InputFile.txt
+
